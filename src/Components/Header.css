@@ -1,0 +1,58 @@
+.header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 23px 0 0 0;
+}
+
+.logo__item {
+  width: 100px;
+  height: 37px;
+}
+
+.search-input {
+  background-color: rgba(196, 224, 231, 0.45);
+  width: 220px;
+  height: 32px;
+  padding: 12px;
+  border-radius: 16px;
+}
+
+.login-user {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.login-user__text {
+  color: #4D6775;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.login-user__img {
+  width: 35px;
+  height: 35px;
+  border-radius: 17.5px;
+  object-fit: cover;
+}
+
+.login-user * {
+  margin: 0 0 0 8px;
+}
+
+.login-user__settings {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-user__settings__item {
+  width: 13px;
+  height: 13px;
+  margin: 0;
+}
+
+.search-input-margin {
+    margin: 0 320px 0 0;
+}
