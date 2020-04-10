@@ -27,7 +27,7 @@
 .login-user__text {
   color: #4D6775;
   font-weight: bold;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .login-user__img {
@@ -48,11 +48,11 @@
 }
 
 .login-user__settings__item {
-  width: 13px;
-  height: 13px;
+  width: 16px;
+  height: 16px;
   margin: 0;
 }
 
 .search-input-margin {
-    margin: 0 320px 0 0;
+  margin: 0 320px 0 0;
 }
